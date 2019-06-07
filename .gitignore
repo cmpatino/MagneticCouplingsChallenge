@@ -1,7 +1,8 @@
 # Data files
 *.xyz
 *.csv
-./exploration/data
+*.zip
+/exploration/data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
