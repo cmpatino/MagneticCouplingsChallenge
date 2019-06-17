@@ -1,3 +1,8 @@
+# Binary Files
+*.pkl
+*.joblib
+*.pickle
+
 # Data files
 *.xyz
 *.csv
