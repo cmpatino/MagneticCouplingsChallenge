@@ -48,14 +48,3 @@ The file `data_utils.py` has all the functions necessary to merge all the featur
 The file `ob_utils.py` has all the functions used to generate features using the `open_babel` library.
 
 The process of creating the dataset is and fitting the models is condensed in the `Final Model.ipynb` Jupyter Notebook. 
-
-## How to Run
-
-First, make sure that you have [conda](https://docs.conda.io/en/latest/) installed and install the project.
-
-```shell
-conda create -n MagneticInteractionsChallenge
-pip install -e 'git+https://github.com/cmpatino/MagneticInteractionsChallenge.git#egg=magnetic_interactions'
-```
-
-> For a private repository accessible only through an SSH authentication, substitute `git+https://github.com` with `git+ssh://git@github.com`.
