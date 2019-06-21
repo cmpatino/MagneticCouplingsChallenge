@@ -1,4 +1,4 @@
-# MagneticInteractionsChallenge
+# Predicting Molecular Properties Solution
 
 This repository contains the solution for the [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling/overview) challenge on Kaggle.
 
